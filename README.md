@@ -18,10 +18,10 @@ Learn everything you need to about the subject of this `Udemy` project.
 Section: 1
 0 / 37
 Drupal 8 for Beginners
-[ ] 1. The Course Overview 6:42
-[ ] 2. What's New 5:35
-[ ] 3. Installing MAMP 3:24
-[ ] 4. Downloading Drupal 8 3:08
+[x] 1. The Course Overview 6:42
+[x] 2. What's New 5:35
+[x] 3. Installing MAMP 3:24
+[x] 4. Downloading Drupal 8 3:08
 [ ] 5. Setting Up the Database 2:28
 [ ] 6. Installing Drupal 8 6:00
 [ ] 7. It's Alive 6:13
